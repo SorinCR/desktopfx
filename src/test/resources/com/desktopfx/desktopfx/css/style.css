@@ -1,0 +1,6 @@
+#wrap {
+    -fx-background-image: url("../assets/background.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 150%;
+    -fx-background-position: center center;
+}
